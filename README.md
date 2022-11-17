@@ -12,4 +12,4 @@ Agenda:
 - We will be applying PCA on the dataset to extract the principal components (Top  eigenvalues).
 - As we will see eventually, the reconstruction of faces from these eigenvalues will give us the eigen-faces which are the most representative features of most of the images in the dataset.
 - Finally, we will train a simple PyTorch Neural Network model on the modified image dataset.
-- This trained model will be used prediction and evaluation on a test set.
+- This trained model will be used for prediction and evaluation on a test set.
